@@ -30,5 +30,5 @@ admin credentials : email - admin@gmail.com
 ```
 ```
 user credentials : email - yogesh@gmail.com
-             password - 121212
+             password - 123123
 ```
