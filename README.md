@@ -25,10 +25,10 @@ The application is hosted on netilfy and render
 
 link:
 ```
-admin credentials : email - abc@gmail.com
-	            password - 123
+admin credentials : email - admin@gmail.com
+	            password - 123123
 ```
 ```
-user credentials : email - mandalmanish00@gmail.com
-             password - 123
+user credentials : email - yogesh@gmail.com
+             password - 121212
 ```
